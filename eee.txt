@@ -1,0 +1,15 @@
+PUMA, 
+prozone, 
+cbe
+Bill To Invoice # 100
+444 BUKKYNAGAR 
+chickmangal, 
+karnataka
+Invoice Date 13/02/2019
+Description Amount
+puma bmw shoe 4,999.00
+Subtotal 4,999.00
+cgst 12.0% 599.88
+INVOICE TOTAL ₹ 5,598.88
+Terms & Conditions
+Payment is due within 15 days
