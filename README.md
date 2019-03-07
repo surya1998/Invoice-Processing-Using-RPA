@@ -7,6 +7,6 @@ Invoice processing using RPA has performed with a help of uiPath. Collect a  inv
 
 
 Team Members:
-Nandha Kumar.A - 711715104042
-Rakshana.B     - 711715104047
-Surya Kala.M   - 711715104060
+Nandha Kumar.A - 711715104042,
+Rakshana.B     - 711715104047,
+Surya Kala.M   - 711715104060.
