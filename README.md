@@ -6,9 +6,7 @@ Invoice processing using RPA has performed with a help of uiPath. Collect a  inv
 The invoice system is used to overcome the entire problem which they are facing currently, and making complete automation of billing and invoice system.The first step of the process consists out of the selection of the right PDF invoice in a dedicated folder.For the RPA bot, it does not matter which application is used to process the invoice data. This can be any kind of accounting. And next step reading the invoice form the folder one by one and extracting the key information from the invoice data.After success fully registering the each invoice, the software robots are then able to send posting notifications in the form of emails to responsible employees.Other background activities, During this whole process the software robots are also running background activities such as monitoring the dedicated invoice folder or its email address, performing basic checks to see is company's database is open and verifying by the vendor information. And the invoice matches what is already in the database.
 
 ## MODULE SPLITUP:
-Module 1: Mail Automation.
-Module 2: Split into folder.
-Module 3: Convert PDF to Excel.
+<u1><li>Module 1: Mail Automation.</li><li>Module 2: Split into folder.</li><li>Module 3: Convert PDF to Excel.</li></u1>
 
 
 ## Advantages of the Automation process: 
