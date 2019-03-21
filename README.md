@@ -14,8 +14,10 @@ The invoice system is used to overcome the entire problem which they are facing 
 ## Module 1: Mail Automation [Rakshana]
   <li>The input file is received from the mail.</li>
   <li>The received input file get stored in the respective folder.</li>
+  
 ## Module 2: Split into folder [NandhaKumar]
   <li>From the previously created folder, the data for the specific company gets seperated and it is stored to the another folder which will be created automatically.</li>
+  
 ## Module 3: Convert PDF to Excel [SuryaKala]
 <li>The input data file is a pdf file.</li>
 <li>The input file gets read and that is written into the excel file.</li>
