@@ -24,7 +24,7 @@ The invoice system is used to overcome the entire problem which they are facing 
 
 ## Advantages of the Automation process: 
 <li>Due to the automation process the time complexity gets reduced</li>
-<li>The chances of occurence of errors are very low</li> 
+<li>The chances of occurrence of errors are very low.</li> 
 
 
 
