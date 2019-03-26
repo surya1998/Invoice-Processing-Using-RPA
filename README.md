@@ -30,6 +30,6 @@ The invoice system is used to overcome the entire problem which they are facing 
 Invoice processing using RPA The other automationcan also automatically backup data, carry out system maintenance and also help the user if the errors arise.
 
 ## Project Status
-Project is completed(100%)
+Project is completed - 90%
 
 
